@@ -22,10 +22,10 @@
 ### ✍️ My Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🧩 Designer :
+### 
 <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif"/>
 
-### 🧩 Degital Marketing :
+###
 <img src="https://images.squarespace-cdn.com/content/v1/5558b821e4b0607a0baedf8e/1539480600553-0LLKC93RUR85EUK7QKH0/video-digital-agency-measurement.gif"/>
 
 ---
